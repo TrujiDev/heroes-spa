@@ -31,7 +31,7 @@ export const HeroesRoutes = () => {
 					/>
 
 					<Route
-						path='dc'
+						path='search'
 						element={<Search />}
 					/>
 				</Routes>
